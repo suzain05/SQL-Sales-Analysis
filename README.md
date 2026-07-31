@@ -31,9 +31,26 @@ Date, Month                                 -Order date
  ![Dataset Preview](SQL%20screenshots/Dataset%20preview.png)
 
  ## Sample Output
+ 
  ## 📊 SQL Analysis Screenshots
-
+ 
+ # 1. TOTAL REVENUE 
 ![Total Revenue](SQL%20screenshots/Total%20Revenue.png)
+
+# 2. TOP 5 CATEGORIES BY REVENUE
+![Top 5 categories by revenue](SQL%20screenshots/Top%205%20categories%20by%20revenue.png)
+
+# 3. CASE STATEMENTS
+![CASE statements](SQL%20screenshots/case%20statements.png)
+
+# 4. SUBQUERY ABOVE AVERAGE SPENDERS
+![Subquery - above-average spenders](SQL%20screenshots/Subquery%20—%20above-average%20spenders.png)
+
+# 5. CTE TOP 3 CITIES CATEGORY WISE REVENUE
+![CTE - Top 3 cities' category-wise revenue](SQL%20screenshots/CTE%20—%20Top%203%20cities'%20category-wise%20revenue.png)
+
+# 6. RUNNING TOTAL(WINDOW FUNCTION)
+![Running total window function](SQL%20screenshots/Running%20total%20window%20function.png)
 
 **MySQL**
 **Concepts**: 
