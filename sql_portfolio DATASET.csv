@@ -1,0 +1,141 @@
+Sr_No,OrderID,CustomerID,Gender,CustomerName,Date,Category,Size,City,DeliveryStatus,Price,Qty,Month,UnitsSold,Revenue,SellThroughRate,PaymentMethod,CustomerRating,Currency
+1,SR101,C1001,Male,Aaravsharma,01-04-2026,OversizedT-Shirt,L,Bangalore,Delivered,600,10,April,5,3000,50,UPI,4.6,INR
+2,SR102,C1002,Female,Priya Nair,01-04-2026,Cotton-Kurti,M,Bangalore,Delivered,800,20,April,12,9600,60,UPI,4.3,INR
+3,SR103,C1003,Male,Rohan Verma,02-04-2026,Denim-Jacket,L,Bangalore,Delivered,800,15,April,9,7200,60,UPI,4.5,INR
+4,SR104,C1004,Female,Ananya Rao,02-04-2026,Floral-Dress,M,Mysore,Delivered,700,10,April,6,4200,60,UPI,4.7,INR
+5,SR105,C1005,Male,Karthik Reddy,03-04-2026,CargoPants,XL,Chennai,Shipped,800,15,April,5,4000,33.33,NetBanking,4.2,INR
+6,SR106,C1006,Female,Meeraiyer,03-04-2026,Hoodie,M,Hyderabad,Delivered,700,14,April,4,2800,28.57,UPI,4.8,INR
+7,SR107,C1007,Male,Adityasingh,04-04-2026,PoloT-Shirt,L,Pune,Processing,800,12,April,2,1600,16.67,Cash,4.1,INR
+8,SR108,C1008,Female,Snehakapoor,04-04-2026,EthnicSet,XL,Kochi,Delivered,1500,15,April,5,7500,33.33,UPI,4.9,INR
+9,SR109,C1009,Male,Vivekjoshi,05-04-2026,Jeans,M,Mumbai,Delivered,899,25,April,3,2697,12,UPI,4.3,INR
+10,SR110,C1010,Female,Poojamenon,05-04-2026,CropTop,L,Bangalore,Shipped,600,10,April,5,3000,50,NetBanking,4.6,INR
+11,SR111,C1011,Male,Nikhildas,06-04-2026,Sweatshirt,XL,Chennai,Delivered,400,12,April,6,2400,50,UPI,4.1,INR
+12,SR112,C1012,Female,Aishakhan,06-04-2026,Maxi-Dress,S,Hyderabad,Delivered,900,16,April,6,5400,37.5,UPI,4.4,INR
+13,SR113,C1013,Male,Harshpatel,07-04-2026,FormalShirt,L,Pune,Delivered,800,14,April,4,3200,28.57,Cash,4.2,INR
+14,SR114,C1014,Female,Diyashetty,07-04-2026,Palazzo-Pants,M,Kochi,Delivered,800,12,April,2,1600,16.67,UPI,4.8,INR
+15,SR115,C1015,Male,Yashmalhotra,08-04-2026,Tracksuit,XL,Mumbai,Shipped,900,15,April,5,4500,33.33,UPI,4.5,INR
+16,SR116,C1016,Female,Riyakulkarni,08-04-2026,Saree,M,Bangalore,Delivered,2999,18,April,3,8997,16.67,NetBanking,4.6,INR
+17,SR117,C1017,Male,Devmehta,09-04-2026,Jumbosuit,XL,Chennai,Delivered,900,12,April,2,1800,16.67,UPI,4.9,INR
+18,SR118,C1018,Female,Tanvijain,09-04-2026,Co-ordSet,FreeSize,Hyderabad,Delivered,800,10,April,5,4000,50,UPI,4.7,INR
+19,SR119,C1019,Male,Aryangupta,10-04-2026,Blazer,M,Pune,Processing,900,10,April,7,6300,70,Cash,4.1,INR
+20,SR120,C1020,Female,Ishitabansal,10-04-2026,Denim-Skirt,L,Kochi,Delivered,900,12,April,2,1800,16.67,UPI,4.8,INR
+21,SR121,C1021,Male,Akashkumar,11-04-2026,Hoodie,XL,Mumbai,Delivered,700,10,April,8,5600,80,NetBanking,4.4,INR
+22,SR122,C1022,Female,Nehasharma,11-04-2026,Kurti,S,Bangalore,Delivered,899,14,April,4,3596,28.57,UPI,4.6,INR
+23,SR123,C1023,Male,Rahuljain,12-04-2026,Jeans,L,Delhi,Delivered,999,12,April,2,1998,16.67,UPI,4.5,INR
+24,SR124,C1024,Female,Kavyanair,12-04-2026,Saree,M,Jaipur,Delivered,2999,18,April,3,8997,16.67,UPI,4.7,INR
+25,SR125,C1025,Male,Sandeeprao,13-04-2026,PoloT-Shirt,XL,Ahmedabad,Shipped,800,12,April,2,1600,16.67,NetBanking,4.3,INR
+26,SR126,C1026,Female,Anjalipatel,13-04-2026,CropTop,FreeSize,Bangalore,Delivered,600,10,April,5,3000,50,UPI,4.9,INR
+27,SR127,C1027,Male,Mohitverma,14-04-2026,CargoPants,M,Chennai,Delivered,800,14,April,4,3200,28.57,Cash,4.2,INR
+28,SR128,C1028,Female,Ritusingh,14-04-2026,Co-ordSet,S,Hyderabad,Processing,600,15,April,5,3000,33.33,UPI,4.5,INR
+29,SR129,C1029,Male,Varunmehta,15-04-2026,FormalShirt,L,Pune,Delivered,800,12,April,2,1600,16.67,UPI,4.6,INR
+30,SR130,C1030,Female,Simrankaur,15-04-2026,Maxi-Dress,M,Mumbai,Delivered,900,12,April,2,1800,16.67,NetBanking,4.8,INR
+31,SR131,C1031,Male,Arjunreddy,16-04-2026,Jumbosuit,XL,Kochi,Shipped,900,18,April,3,2700,16.67,UPI,4.4,INR
+32,SR132,C1032,Female,Poojashah,16-04-2026,EthnicSet,M,Delhi,Delivered,1500,12,April,2,3000,16.67,UPI,4.7,INR
+33,SR133,C1033,Male,Deepaknair,17-04-2026,Sweatshirt,L,Jaipur,Delivered,400,16,April,6,2400,37.5,Cash,4.1,INR
+34,SR134,C1034,Female,Aartimenon,17-04-2026,Palazzo-Pants,XL,Ahmedabad,Delivered,800,10,April,1,800,10,UPI,4.6,INR
+35,SR135,C1035,Male,Pranavjoshi,18-04-2026,Blazer,XL,Bangalore,Processing,900,18,April,3,2700,16.67,NetBanking,4.2,INR
+36,SR136,C1036,Female,Snehalpatil,18-04-2026,Denim-Skirt,M,Chennai,Delivered,900,14,April,4,3600,28.57,UPI,4.8,INR
+37,SR137,C1037,Male,Rakeshdas,19-04-2026,Tracksuit,XL,Hyderabad,Delivered,900,10,April,1,900,10,UPI,4.5,INR
+38,SR138,C1038,Female,Nandinirao,19-04-2026,Kurti,S,Pune,Shipped,899,18,April,3,2697,16.67,NetBanking,4.4,INR
+39,SR139,C1039,Male,Viveksharma,20-04-2026,Casual-Shirt,XXL,Mumbai,Delivered,500,12,April,2,1000,16.67,UPI,4.9,INR
+40,SR140,C1040,Female,Bhavnajain,20-04-2026,Hoodie,L,Kochi,Delivered,700,15,April,5,3500,33.33,Cash,4.7,INR
+41,SR141,C1041,Male,Rohitpatel,21-04-2026,Jeans,M,Delhi,Delivered,999,18,April,3,2997,16.67,UPI,4.3,INR
+42,SR142,C1042,Female,Ishakapoor,21-04-2026,Saree,XL,Jaipur,Processing,2999,12,April,2,5998,16.67,UPI,4.1,INR
+43,SR143,C1043,Male,Kunalsingh,22-04-2026,PoloT-Shirt,L,Ahmedabad,Delivered,800,14,April,4,3200,28.57,NetBanking,4.6,INR
+44,SR144,C1044,Female,Mehakarora,22-04-2026,CropTop,FreeSize,Bangalore,Delivered,600,10,April,1,600,10,UPI,4.8,INR
+45,SR145,C1045,Male,Tarunkumar,23-04-2026,CargoPants,M,Chennai,Shipped,800,15,April,5,4000,33.33,UPI,4.4,INR
+46,SR146,C1046,Female,Shreyanair,23-04-2026,Co-ordSet,S,Hyderabad,Delivered,600,14,April,4,2400,28.57,Cash,4.2,INR
+47,SR147,C1047,Male,Amangupta,24-04-2026,FormalShirt,XL,Pune,Delivered,800,18,April,3,2400,16.67,UPI,4.7,INR
+48,SR148,C1048,Female,Divyareddy,24-04-2026,Maxi-Dress,L,Mumbai,Delivered,900,12,April,2,1800,16.67,UPI,4.9,INR
+49,SR149,C1049,Male,Siddharth Shah,25-04-2026,Jumbosuit,M,Kochi,Processing,900,14,April,4,3600,28.57,NetBanking,4.1,INR
+50,SR150,C1050,Female,Hariniiyer,25-04-2026,EthnicSet,XL,Delhi,Delivered,1500,12,April,2,3000,16.67,UPI,4.8,INR
+51,SR151,C1051,Male,Nitinverma,26-04-2026,Sweatshirt,L,Jaipur,Delivered,400,10,April,7,2800,70,UPI,4.5,INR
+52,SR152,C1052,Female,Ayeshakhan,26-04-2026,Palazzo-Pants,XL,Ahmedabad,Delivered,800,12,April,2,1600,16.67,Cash,4.9,INR
+53,SR153,C1053,Male,Gauravmehta,27-04-2026,Blazer,L,Bangalore,Shipped,900,18,April,3,2700,16.67,UPI,4.2,INR
+54,SR154,C1054,Female,Kritikasharma,27-04-2026,Denim-Skirt,M,Chennai,Delivered,900,15,April,5,4500,33.33,UPI,4.7,INR
+55,SR155,C1055,Male,Manishrao,28-04-2026,Tracksuit,XXL,Hyderabad,Delivered,900,12,April,2,1800,16.67,NetBanking,4.8,INR
+56,SR156,C1056,Female,Radhikamenon,28-04-2026,Kurti,S,Pune,Processing,899,14,April,4,3596,28.57,Cash,4.2,INR
+57,SR157,C1057,Male,Abhishekdas,29-04-2026,Casual-Shirt,XL,Mumbai,Delivered,500,18,April,3,1500,16.67,UPI,4.9,INR
+58,SR158,C1058,Female,Monikajain,29-04-2026,Hoodie,M,Kochi,Delivered,700,16,April,6,4200,37.5,UPI,4.8,INR
+59,SR159,C1059,Male,Suresh Sharma,29-04-2026,Tracksuit,L,Delhi,Delivered,900,14,April,4,3600,28.57,NetBanking,4.4,INR
+60,SR160,C1060,Female,Pooja Bhat,30-04-2026,Saree,XL,Jaipur,Shipped,2999,18,April,3,8997,16.67,UPI,4.5,INR
+61,SR161,C1061,Male,Akashnair,30-04-2026,FormalShirt,L,Bangalore,Delivered,800,18,April,3,2400,16.67,UPI,4.5,INR
+62,SR162,C1062,Female,Nishagupta,30-04-2026,Kurti,M,Delhi,Delivered,899,12,April,2,1798,16.67,UPI,4.8,INR
+63,SR163,C1063,Male,Rohityadav,01-05-2026,Jeans,XL,Mumbai,Shipped,999,12,May,2,1998,16.67,NetBanking,4.2,INR
+64,SR164,C1064,Female,Kavyamenon,01-05-2026,Co-ordSet,L,Kochi,Delivered,600,10,May,5,3000,50,UPI,4.7,INR
+65,SR165,C1065,Male,Sandeepreddy,02-05-2026,Hoodie,XL,Hyderabad,Processing,700,12,May,2,1400,16.67,Cash,4.1,INR
+66,SR166,C1066,Female,Bhavnashah,02-05-2026,Saree,FreeSize,Ahmedabad,Delivered,2999,10,May,1,2999,10,UPI,4.9,INR
+67,SR167,C1067,Male,Manishverma,03-05-2026,OversizedT-Shirt,M,Chennai,Delivered,600,15,May,5,3000,33.33,UPI,4.4,INR
+68,SR168,C1068,Female,Aditijoshi,03-05-2026,Palazzo-Pants,L,Pune,Shipped,800,18,May,3,2400,16.67,NetBanking,4.6,INR
+69,SR169,C1069,Male,Pranavshetty,04-05-2026,Tracksuit,XXL,Mysore,Delivered,900,12,May,2,1800,16.67,UPI,4.8,INR
+70,SR170,C1070,Female,Ritukapoor,04-05-2026,Maxi-Dress,M,Jaipur,Delivered,900,12,May,2,1800,16.67,UPI,4.7,INR
+71,SR171,C1071,Female,Ananyasharma,05-05-2026,Kurti,M,Bangalore,Delivered,899,14,May,4,3596,28.57,UPI,4.8,INR
+72,SR172,C1072,Male,Vivekkumar,05-05-2026,CargoPants,XL,Hyderabad,Delivered,800,12,May,2,1600,16.67,UPI,4.5,INR
+73,SR173,C1073,Female,Meeranair,06-05-2026,Saree,FreeSize,Chennai,Delivered,2999,10,May,8,23992,80,NetBanking,4.9,INR
+74,SR174,C1074,Male,Arjunpatel,06-05-2026,Jumbosuit,L,Pune,Shipped,900,15,May,5,4500,33.33,UPI,4.2,INR
+75,SR175,C1075,Female,Snehareddy,07-05-2026,Co-ordSet,M,Mumbai,Delivered,600,12,May,2,1200,16.67,UPI,4.7,INR
+76,SR176,C1076,Male,Karthikrao,07-05-2026,Hoodie,XL,Kochi,Processing,700,18,May,3,2100,16.67,Cash,4.1,INR
+77,SR177,C1077,Female,Poojajain,08-05-2026,CropTop,S,Delhi,Delivered,600,16,May,6,3600,37.5,UPI,4.4,INR
+78,SR178,C1078,Male,Nikhilverma,08-05-2026,Jeans,L,Ahmedabad,Delivered,999,18,May,3,2997,16.67,UPI,4.6,INR
+79,SR179,C1079,Female,Radhikamenon,09-05-2026,Palazzo-Pants,M,Mysore,Delivered,800,14,May,4,3200,28.57,NetBanking,4.7,INR
+80,SR180,C1080,Male,Amangupta,09-05-2026,FormalShirt,XL,Bangalore,Shipped,800,18,May,3,2400,16.67,UPI,4.3,INR
+81,SR181,C1081,Female,Ishitakapoor,10-05-2026,EthnicSet,XL,Hyderabad,Delivered,1500,12,May,2,3000,16.67,UPI,4.9,INR
+82,SR182,C1082,Male,Rahuldas,10-05-2026,OversizedT-Shirt,M,Chennai,Delivered,600,10,May,7,4200,70,UPI,4.5,INR
+83,SR183,C1083,Female,Tanvishetty,11-05-2026,Maxi-Dress,L,Pune,Delivered,900,12,May,2,1800,16.67,NetBanking,4.8,INR
+84,SR184,C1084,Male,Siddharthnair,11-05-2026,Tracksuit,XXL,Mumbai,Delivered,900,12,May,2,1800,16.67,UPI,4.9,INR
+85,SR185,C1085,Female,Ayeshakhan,12-05-2026,Denim-Shirt,S,Kochi,Processing,900,15,May,5,4500,33.33,Cash,3.9,INR
+86,SR186,C1086,Male,Harshpatel,12-05-2026,PoloT-Shirt,L,Delhi,Delivered,800,14,May,4,3200,28.57,UPI,4.4,INR
+87,SR187,C1087,Female,Divyarao,13-05-2026,Kurti,XL,Ahmedabad,Delivered,899,18,May,3,2697,16.67,UPI,4.6,INR
+88,SR188,C1088,Male,Rohitsharma,13-05-2026,Blazer,XXL,Mysore,Shipped,900,10,May,7,6300,70,NetBanking,4.2,INR
+89,SR189,C1089,Female,Nehaiyer,14-05-2026,Saree,FreeSize,Bangalore,Delivered,2999,12,May,2,5998,16.67,UPI,4.9,INR
+90,SR190,C1090,Male,Akshaymehta,14-05-2026,Casual-Shirt,M,Hyderabad,Delivered,500,15,May,5,2500,33.33,UPI,4.5,INR
+91,SR191,C1091,Female,Shwetarao,15-05-2026,Kurti,L,Bangalore,Delivered,899,14,May,4,3596,28.57,UPI,4.8,INR
+92,SR192,C1092,Male,Ajayverma,15-05-2026,Jeans,XL,Mumbai,Delivered,999,12,May,2,1998,16.67,UPI,4.5,INR
+93,SR193,C1093,Female,Nidhikapoor,16-05-2026,Saree,FreeSize,Chennai,Delivered,2999,10,May,1,2999,10,NetBanking,4.9,INR
+94,SR194,C1094,Male,Rohitnair,16-05-2026,Hoodie,XL,Pune,Shipped,700,18,May,3,2100,16.67,UPI,4.2,INR
+95,SR195,C1095,Female,Kavitasharma,17-05-2026,EthnicSet,L,Hyderabad,Delivered,1500,12,May,8,12000,66.67,UPI,4.8,INR
+96,SR196,C1096,Male,Manavpatel,17-05-2026,Jumbosuit,M,Delhi,Delivered,900,16,May,10,9000,62.5,Cash,4.3,INR
+97,SR197,C1097,Female,Rheamenon,18-05-2026,CropTop,S,Kochi,Processing,600,15,May,5,3000,33.33,UPI,4,INR
+98,SR198,C1098,Male,Kunaljoshi,18-05-2026,Tracksuit,XXL,Ahmedabad,Delivered,900,12,May,6,5400,50,UPI,4.9,INR
+99,SR199,C1099,Female,Pritijain,19-05-2026,Palazzo-Pants,M,Jaipur,Delivered,800,14,May,4,3200,28.57,NetBanking,4.7,INR
+100,SR200,C1100,Male,Saurabhgupta,19-05-2026,FormalShirt,L,Bangalore,Delivered,800,18,May,3,2400,16.67,UPI,4.4,INR
+101,SR201,C1101,Female,Anushareddy,20-05-2026,Co-ordSet,M,Mumbai,Delivered,600,12,May,12,7200,100,UPI,4.8,INR
+102,SR202,C1102,Male,Harshitsingh,20-05-2026,CargoPants,XL,Chennai,Shipped,800,18,May,3,2400,16.67,NetBanking,4.3,INR
+103,SR203,C1103,Female,Deepikaiyer,21-05-2026,Kurti,M,Hyderabad,Delivered,899,15,May,5,4495,33.33,UPI,4.9,INR
+104,SR204,C1104,Male,Arvindkumar,21-05-2026,PoloT-Shirt,L,Pune,Delivered,800,14,May,4,3200,28.57,UPI,4.5,INR
+105,SR205,C1105,Female,Sonalshah,22-05-2026,Maxi-Dress,XL,Delhi,Delivered,900,12,May,2,1800,16.67,NetBanking,4.8,INR
+106,SR206,C1106,Male,Nitinrao,22-05-2026,Casual-Shirt,M,Kochi,Processing,500,14,May,4,2000,28.57,Cash,4.1,INR
+107,SR207,C1107,Female,Komalverma,23-05-2026,Saree,FreeSize,Ahmedabad,Delivered,2999,10,May,8,23992,80,UPI,4.9,INR
+108,SR208,C1108,Male,Siddhantpatel,23-05-2026,Blazer,XXL,Jaipur,Delivered,900,10,May,6,5400,60,UPI,4.6,INR
+109,SR209,C1109,Female,Nainakapoor,24-05-2026,Denim-Shirt,S,Bangalore,Shipped,900,14,May,4,3600,28.57,NetBanking,4.3,INR
+110,SR210,C1110,Male,Yashsharma,24-05-2026,OversizedT-Shirt,L,Mumbai,Delivered,600,15,May,5,3000,33.33,UPI,4.7,INR
+111,SR211,C1111,Female,Priyankanair,01-06-2026,Kurti,M,Bangalore,Delivered,899,18,June,3,2697,16.67,UPI,4.8,INR
+112,SR212,C1112,Male,Rohangupta,01-06-2026,Jeans,XL,Mumbai,Delivered,999,12,June,7,6993,58.33,UPI,4.5,INR
+113,SR213,C1113,Female,Anjalisharma,02-06-2026,Saree,FreeSize,Chennai,Delivered,2999,10,June,9,26991,90,NetBanking,4.9,INR
+114,SR214,C1114,Male,Karanverma,02-06-2026,Hoodie,XL,Hyderabad,Shipped,700,12,June,6,4200,50,UPI,4.2,INR
+115,SR215,C1115,Female,Nishapatel,03-06-2026,Co-ordSet,L,Pune,Delivered,600,12,June,6,3600,50,UPI,4.7,INR
+116,SR216,C1116,Male,Arjunrao,03-06-2026,Jumbosuit,M,Delhi,Delivered,900,15,June,5,4500,33.33,Cash,4.4,INR
+117,SR217,C1117,Female,Ritumenon,04-06-2026,CropTop,S,Kochi,Processing,600,14,June,4,2400,28.57,UPI,4.2,INR
+118,SR218,C1118,Male,Vivekjain,04-06-2026,Tracksuit,XXL,Ahmedabad,Delivered,900,12,June,12,10800,100,UPI,4.9,INR
+119,SR219,C1119,Female,Poojakapoor,05-06-2026,Palazzo-Pants,M,Jaipur,Delivered,800,18,June,10,8000,55.56,NetBanking,4.6,INR
+120,SR220,C1120,Male,Akshaysingh,05-06-2026,FormalShirt,L,Bangalore,Delivered,800,14,June,4,3200,28.57,UPI,4.5,INR
+121,SR221,C1121,Female,Meeraiyer,06-06-2026,EthnicSet,XL,Mumbai,Delivered,1500,12,June,8,12000,66.67,UPI,4.8,INR
+122,SR222,C1122,Male,Harshnair,06-06-2026,CargoPants,XL,Chennai,Shipped,800,18,June,3,2400,16.67,NetBanking,4.3,INR
+123,SR223,C1123,Female,Aditishah,07-06-2026,Kurti,M,Hyderabad,Delivered,899,14,June,5,4495,35.71,UPI,4.9,INR
+124,SR224,C1124,Male,Rahuldas,07-06-2026,PoloT-Shirt,L,Pune,Delivered,800,15,June,5,4000,33.33,UPI,4.5,INR
+125,SR225,C1125,Female,Kavyareddy,08-06-2026,Maxi-Dress,XL,Delhi,Delivered,900,12,June,12,10800,100,NetBanking,4.7,INR
+126,SR226,C1126,Male,Nitinsharma,08-06-2026,Casual-Shirt,M,Kochi,Processing,500,14,June,4,2000,28.57,Cash,4.1,INR
+127,SR227,C1127,Female,Divyamenon,09-06-2026,Saree,FreeSize,Ahmedabad,Delivered,2999,10,June,8,23992,80,UPI,4.9,INR
+128,SR228,C1128,Male,Kunal Patel,09-06-2026,Blazer,XXL,Jaipur,Delivered,900,10,June,10,9000,100,UPI,4.6,INR
+129,SR229,C1129,Female,Shreya Nair,10-06-2026,Denim-Shirt,S,Bangalore,Shipped,900,14,June,4,3600,28.57,NetBanking,4.3,INR
+130,SR230,C1130,Male,Aman Kumar,10-06-2026,OversizedT-Shirt,L,Mumbai,Delivered,600,16,June,6,3600,37.5,UPI,4.7,INR
+131,SR231,C1131,Female,Neha Rao,11-06-2026,Kurti,XL,Chennai,Delivered,899,15,June,5,4495,33.33,UPI,4.8,INR
+132,SR232,C1132,Male,Siddharth Jain,11-06-2026,Hoodie,XL,Hyderabad,Delivered,700,30,June,3,2100,10,UPI,4.4,INR
+133,SR233,C1133,Female,Komal Sharma,12-06-2026,Co-ordSet,M,Pune,Delivered,600,20,June,10,6000,50,NetBanking,4.9,INR
+134,SR234,C1134,Male,Varun Gupta,12-06-2026,Jeans,L,Delhi,Delivered,999,10,June,4,3996,40,UPI,4.5,INR
+135,SR235,C1135,Female,Ayesha Khan,13-06-2026,CropTop,S,Kochi,Processing,600,10,June,5,3000,50,Cash,3.9,INR
+136,SR236,C1136,Male,Pranav Reddy,13-06-2026,Tracksuit,XXL,Ahmedabad,Delivered,900,30,June,3,2700,10,UPI,4.8,INR
+137,SR237,C1137,Female,Ishita Kapoor,14-06-2026,Saree,FreeSize,Jaipur,Delivered,2999,20,June,12,35988,60,UPI,4.9,INR
+138,SR238,C1138,Male,Deepak Nair,14-06-2026,FormalShirt,XL,Bangalore,Shipped,800,30,June,10,8000,33.33,NetBanking,4.2,INR
+139,SR239,C1139,Female,Bhavna Patel,15-06-2026,EthnicSet,XL,Mumbai,Delivered,1500,20,June,12,18000,60,UPI,4.8,INR
+140,SR240,C1140,Male,Abhishek Sharma,15-06-2026,CargoPants,L,Chennai,Delivered,800,18,June,11,8800,61.11,UPI,4.6,INR
