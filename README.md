@@ -32,17 +32,17 @@ Date, Month                                 -Order date
 
  ## Sample Output
  ## 📊 SQL Analysis Screenshots
-![CASE Statements](./case%20statements.png)
+ ![case statements](case statements.png)
 
-![CTE - Top 3 Cities' Category-wise Revenue](./CTE%20%E2%80%94%20Top%203%20cities'%20category-wise%20revenue.png)
+![CTE - Top 3 cities' category-wise revenue](CTE — Top 3 cities' category-wise revenue.png)
 
-![Running Total Window Function](./Running%20total%20window%20function.png)
+![Running total window function](Running total window function.png)
 
-![Subquery - Above Average Spenders](./Subquery%20%E2%80%94%20above-average%20spenders.png)
+![Subquery — above-average spenders](Subquery — above-average spenders.png)
 
-![Top 5 Categories by Revenue](./Top%205%20categories%20by%20revenue.png)
+![Top 5 categories by revenue](Top 5 categories by revenue.png)
 
-![Total Revenue](./Total%20Revenue.png)
+![Total Revenue](Total Revenue.png)
 
 # Tools
 **MySQL**
