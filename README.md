@@ -29,3 +29,17 @@ Date, Month                                 -Order date
 
 # Dataset preview 
  ![Dataset Preview](SQL%20screenshots/Dataset%20preview.png)
+
+# Tools
+**MySQL**
+**Concepts**: 
+filtering, aggregation, GROUP BY, CASE statements, window functions (RANK(), running totals), subqueries, CTEs
+
+## Structure
+
+Queries are grouped into four sections:
+
+**Data Exploration & Filtering (Q1–11)
+Aggregations & Grouping (Q12–21)
+Business Insight Queries (Q22–26)
+Advanced SQL — window functions, subqueries, CTEs (Q27–30)**
