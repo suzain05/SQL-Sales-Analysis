@@ -4,4 +4,6 @@
  subqueries, and CTEs.
 
 **📄 Full documentation with explanations**
- SQL_Portfolio_Documentation MAIN(1).pdf
+ ## 📄 Project Documentation
+
+[View SQL Portfolio Documentation](SQL_Portfolio_Documentation%20MAIN(1).pdf)
