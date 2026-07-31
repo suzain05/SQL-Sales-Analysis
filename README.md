@@ -28,4 +28,4 @@ CustomerRating                             -1–5 rating
 Date, Month                                 -Order date
 
 # Dataset preview 
-![Dataset Preview](Dataset%20preview.png)
+ ![Dataset Preview](SQL%20screenshots/Dataset%20preview.png)
