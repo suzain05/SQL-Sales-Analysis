@@ -64,3 +64,9 @@ Queries are grouped into four sections:
 Aggregations & Grouping (Q12–21)
 Business Insight Queries (Q22–26)
 Advanced SQL — window functions, subqueries, CTEs (Q27–30)**
+
+## Related Project
+
+This dataset is also used in an Excel dashboard project covering the same 3-month period with pivot tables, charts, and a full visual dashboard.
+
+**Fathima Suzain · Data Analytics Portfolio · 2026**
