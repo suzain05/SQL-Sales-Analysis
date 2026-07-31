@@ -33,9 +33,8 @@ Date, Month                                 -Order date
  ## Sample Output
  ## 📊 SQL Analysis Screenshots
 
- ### Screenshots
- ![Dataset preview](SQL%20screenshots/Dataset%20preview.png)
-# Tools
+![Total Revenue](SQL%20screenshots/Total%20Revenue.png)
+
 **MySQL**
 **Concepts**: 
 filtering, aggregation, GROUP BY, CASE statements, window functions (RANK(), running totals), subqueries, CTEs
