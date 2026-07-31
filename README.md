@@ -65,6 +65,21 @@ Aggregations & Grouping (Q12–21)
 Business Insight Queries (Q22–26)
 Advanced SQL — window functions, subqueries, CTEs (Q27–30)**
 
+## 📝 SQL Problems Solved
+
+- Total Revenue Calculation
+- Revenue by Category
+- Revenue by City
+- Monthly Revenue Analysis
+- Top 5 Categories by Revenue
+- CASE Statement for Sales Classification
+- Running Total using Window Functions
+- Subquery – Above-Average Spenders
+- CTE – Top 3 Cities' Category-wise Revenue
+- Aggregate Functions (SUM, AVG, COUNT)
+- GROUP BY & HAVING
+- Joins
+
 ## Related Project
 
 This dataset is also used in an Excel dashboard project covering the same 3-month period with pivot tables, charts, and a full visual dashboard.
