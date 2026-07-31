@@ -18,11 +18,11 @@ Answer common business questions using SQL which cities and categories drive rev
 **Column**                                    **Description**
 
 OrderID, CustomerID, CustomerName	         - Order and customer identifiers
-Gender                                     ====	Customer gender
-Category                                   ====	Product category
-City	                                      ==== Delivery city
-DeliveryStatus	                            ====  Delivered / Processing / Shipped
-Price, Qty, Revenue                        ====	Order value fields
-PaymentMethod	                             ==== Cash / UPI / Net Banking
-CustomerRating                             ==== 1–5 rating
-Date, Month                                ====	Order date
+Gender                                     -Customer gender
+Category                                   -Product category
+City	                                      -Delivery city
+DeliveryStatus	                            -Delivered / Processing / Shipped
+Price, Qty, Revenue                        -Order value fields
+PaymentMethod	                             -Cash / UPI / Net Banking
+CustomerRating                             -1–5 rating
+Date, Month                                 -Order date
