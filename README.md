@@ -5,6 +5,4 @@
 
  ## 📄 SQL Portfolio Documentation
 
-You can view my complete SQL project documentation here:
-
-[🔗 Open SQL Portfolio Documentation PDF](./SQL%20Portfolio%20Documentation.pdf)
+[🔗 Open SQL Portfolio Documentation PDF](./SQL_Portfolio_Documentation.Pdf)
