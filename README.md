@@ -17,7 +17,7 @@ Answer common business questions using SQL which cities and categories drive rev
 
 **Column**                                    **Description**
 
-OrderID, CustomerID, CustomerName	         ==== Order and customer identifiers
+OrderID, CustomerID, CustomerName	         - Order and customer identifiers
 Gender                                     ====	Customer gender
 Category                                   ====	Product category
 City	                                      ==== Delivery city
