@@ -34,46 +34,7 @@ Date, Month                                 -Order date
  ## 📊 SQL Analysis Screenshots
 
  ### Screenshots
-
-**Total Revenue**
-
-
-![Total Revenue](screenshots/Total%20Revenue.png)
-
-
-
-**Top 5 Categories by Revenue**
-
-
-![Top 5 categories by revenue](screenshots/Top%205%20categories%20by%20revenue.png)
-
-
-
-**CASE Statements**
-
-
-![CASE statements](screenshots/case%20statements.png)
-
-
-
-**Subquery — Above-Average Spenders**
-
-
-![Subquery - above-average spenders](screenshots/Subquery%20—%20above-average%20spenders.png)
-
-
-
-**CTE — Top 3 Cities' Category-wise Revenue**
-
-
-![CTE - Top 3 cities' category-wise revenue](screenshots/CTE%20—%20Top%203%20cities'%20category-wise%20revenue.png)
-
-
-
-**Running Total (Window Function)**
-
-
-![Running total window function](screenshots/Running%20total%20window%20function.png)
+ ![Dataset preview](SQL%20screenshots/Dataset%20preview.png)
 # Tools
 **MySQL**
 **Concepts**: 
