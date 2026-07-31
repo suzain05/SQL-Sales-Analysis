@@ -6,4 +6,4 @@
 **📄 Full documentation with explanations**
  ## 📄 Project Documentation
 
-[View SQL Portfolio Documentation](SQL_Portfolio_Documentation%20MAIN(1).pdf)
+[View SQl Portfolio Documentation](SQL_Portfolio_Documentation%20MAIN(1).pdf)
