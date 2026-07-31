@@ -6,3 +6,11 @@
  ## 📄 SQL Portfolio Documentation
 
 [🔗 Open SQL Portfolio Documentation PDF](./SQL_Portfolio_Documentation.Pdf)
+
+# Objective
+
+Answer common business questions using SQL which cities and categories drive revenue, how customers pay, how orders move through delivery stages while demonstrating a range of SQL techniques from basic to advanced.
+
+ # Dataset
+ 
+ [🔗 Open SQL Portfolio Dataset CSV](./sql_portfolio%20DATASET.csv)
