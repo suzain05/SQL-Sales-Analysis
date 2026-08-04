@@ -74,8 +74,8 @@ Advanced SQL — window functions, subqueries, CTEs (Q27–30)**
 - Top 5 Categories by Revenue
 - CASE Statement for Sales Classification
 - Running Total using Window Functions
-- Subquery – Above-Average Spenders
-- CTE – Top 3 Cities' Category-wise Revenue
+- Subquery – Above Average Spenders
+- CTE – Top 3 Cities Category-wise Revenue
 - Aggregate Functions (SUM, AVG, COUNT)
 - GROUP BY & HAVING
 - Joins
