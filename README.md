@@ -44,9 +44,9 @@ Answer common business questions using SQL which cities and categories drive rev
 
 
 # Dataset preview 
+
  ![Dataset Preview](SQL%20screenshots/Dataset%20preview.png)
 
- ## Sample Output
  
  ## 📊 SQL Analysis Screenshots
  
