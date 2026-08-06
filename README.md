@@ -71,6 +71,10 @@ Date, Month                                 -Order date
 **Concepts**: 
 filtering, aggregation, GROUP BY, CASE statements, window functions (RANK(), running totals), subqueries, CTEs
 
+# ER DIAGRAM
+
+![ER Diagram](https://raw.githubusercontent.com/suzain05/SQL-Sales-Analysis/main/SQL%20screenshots/ER_Diagram.png)
+
 ## Structure
 
 Queries are grouped into four sections:
