@@ -27,6 +27,21 @@ PaymentMethod	                             -Cash / UPI / Net Banking
 CustomerRating                             -1–5 rating
 Date, Month                                 -Order date
 
+
+## 🛠 SQL Concepts Used
+
+- SELECT
+- WHERE
+- GROUP BY
+- ORDER BY
+- HAVING
+- INNER JOIN
+- LEFT JOIN
+- Aggregate Functions
+- CASE WHEN
+- Subqueries
+
+
 # Dataset preview 
  ![Dataset Preview](SQL%20screenshots/Dataset%20preview.png)
 
